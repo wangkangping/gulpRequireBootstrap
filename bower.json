@@ -1,0 +1,21 @@
+{
+  "name": "Talentful",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Talentful Technologies Ltd."
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "requirejs": "^2.3.5"
+  }
+}
